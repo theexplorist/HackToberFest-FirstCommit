@@ -18,3 +18,6 @@ This is an repository especially made for first commit on the occasion of HackTo
 
 
 You can also use GitHub desktop to edit the name file and pull request.
+
+# A detailed blog to learn about PR using command line.
+[Learn To PR](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
