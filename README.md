@@ -15,3 +15,6 @@ This is an repository especially made for first commit on the occasion of HackTo
 * Star this repository
 * Wait for Pull Request to merge
 * Celebrate - you've done your first pull request!! 
+
+
+You can also use GitHub desktop to edit the name file and pull request.
