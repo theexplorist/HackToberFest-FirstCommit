@@ -3,3 +3,4 @@
 
 [Karan Sapra](https://github.com/Karansapra24)
 [Akhil Joshi](https://github.com/thecreepaccess)
+[Satyam Mishra](https://github.com/satyammishra001)
